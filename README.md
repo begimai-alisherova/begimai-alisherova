@@ -1,4 +1,4 @@
-## Hey! I am Begimai :)
+## Hey! I'm Begimai :)
 
 🎓 Data Science graduate from Thompson Rivers University<br/>
 🤖 ML & Data Analysis enthusiast<br/>
