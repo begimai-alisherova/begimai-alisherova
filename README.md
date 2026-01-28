@@ -2,7 +2,7 @@
 
 🎓 Data Science graduate from Thompson Rivers University<br/>
 🤖 ML & Data Analysis enthusiast<br/>
-🧠 Currently working on the Data for Good National Datathon<br/>
+🧠 Currently working as a Data Analyst Assistant at YRES<br/>
 🤝 Looking to collaborate on Data Science projects<br/> 
 
 # 💻 Tech Stack:
